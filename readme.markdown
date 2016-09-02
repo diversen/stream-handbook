@@ -28,7 +28,6 @@ another way. This is the way of IO also."
 
 [Doug McIlroy. October 11, 1964](http://cm.bell-labs.com/who/dmr/mdmpipe.html)
 
-![doug mcilroy](http://substack.net/images/mcilroy.png)
 
 ***
 
